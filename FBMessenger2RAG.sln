@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBMessenger2RAG", "FBMessenger2RAG.csproj", "{80ACEDFD-B5A4-492E-B4A4-92011CD7B3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80ACEDFD-B5A4-492E-B4A4-92011CD7B3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80ACEDFD-B5A4-492E-B4A4-92011CD7B3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80ACEDFD-B5A4-492E-B4A4-92011CD7B3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80ACEDFD-B5A4-492E-B4A4-92011CD7B3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADBA3E64-A1E9-4431-8E21-79352CCF0C9E}
+	EndGlobalSection
+EndGlobal
